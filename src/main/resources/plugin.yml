@@ -1,0 +1,11 @@
+name: chestmonitorinfo
+version: 1.0
+author: Philipp Albrecht
+api-version: 1.18
+main: ch.uisa.minecraft.chestmonitor.Main
+
+commands:
+  chestmonitorinfo:
+    description: chest monitor info
+    usage: /chestmonitorinfo
+    permission: chestmonitorinfo.basic
